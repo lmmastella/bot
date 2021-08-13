@@ -7,3 +7,5 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 
 # mais teste
+# mais testes
+
